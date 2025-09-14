@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, React, React-Redux, Node, Express, MongoDB**
 
-- 📫 How to reach me **akhildharavathofficial@gmail.com**
+- 📫 How to reach me **akhildharavath1999@gmail.com**
 
 - 📄 Here is my [Resume](https://drive.google.com/file/d/1okiCgQjAKF6XnzZKZ387Wbmom0NoCy1R/view?usp=drive_link)
 
